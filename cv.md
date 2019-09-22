@@ -1,12 +1,11 @@
-![](cv_github-pages.png)
 #Ala Dzemyanovich
 
 Contacts:
 ----
 
-![](skype.png)***Skype:*** ala_budzila
+***Skype:*** ala_budzila
 
-![](mail.png) :envelope: ***E-mail:*** ala_dzemyanovich@gmail.com
+***E-mail:*** ala_dzemyanovich@gmail.com
 
 ***
 
@@ -45,7 +44,9 @@ Skills:
 
 Experience:
 ----
-|*|*
+
+
+*|*
 ------------ | -------------
 **`12/2018 – present time`** | Foodspring (Germany)
 Roles:| Manual QA
